@@ -1,0 +1,8 @@
+Numero de cartao de cidadao: 0
+Data: 
+Hora: 
+Portico de entrada: 0
+Portico de saida: 0
+Distancia da viagem: 0.000000
+Numero de cartao de cidadao: 0
+

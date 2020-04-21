@@ -1,0 +1,52 @@
+Nome: luka
+Numero de cartao de cidadao: 12345678
+Numero de identificacao fiscal: 123456789
+Numero de identificacao bancaria: 012345678901234567890
+Informacoes sobre a morada:
+     Rua: rua
+     Numero de porta: 444
+     Localidade: loc
+     Concelho: conc
+     Distrito: dist
+     Codigo postal: 4567-789
+Informacoes sobre a viatura:
+     Matricula: 00AA00
+     Marca: ma
+     Modelo: mo
+     Categoria: 1
+
+Nome: mj
+Numero de cartao de cidadao: 1234678
+Numero de identificacao fiscal: 123456789
+Numero de identificacao bancaria: 123456789012345678901
+Informacoes sobre a morada:
+     Rua: rua~
+     Numero de porta: 456
+     Localidade: loc
+     Concelho: conc
+     Distrito: dist
+     Codigo postal: 4568-478
+Informacoes sobre a viatura:
+     Matricula: [C00A
+     Marca: ma
+     Modelo: ma
+     Categoria: 1
+
+Nome: Lika
+Numero de cartao de cidadao: 12345678
+Numero de identificacao fiscal: 123456789
+Numero de identificacao bancaria: 012345678901234567890
+Informacoes sobre a morada:
+     Rua: rua
+     Numero de porta: 456
+     Localidade: loc
+     Concelho: conc
+     Distrito: diste
+     Codigo postal: 4569-478
+Informacoes sobre a viatura:
+     Matricula: 00AA00
+     Marca: marca
+     Modelo: modele
+     Categoria: 1
+
+
